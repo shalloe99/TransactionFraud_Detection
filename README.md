@@ -1,4 +1,4 @@
-# TransactionFraud_Detection
+# Transaction Fraud Detection
 
 Use single decision tree, random forest, logistic regressions on variables selected by Lasso and RFE to detect fraud transactions.
 
