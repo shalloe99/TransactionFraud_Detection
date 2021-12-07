@@ -9,6 +9,8 @@ According to a report by TransUnion, a consumer credit reporting agency, global 
 In the U.S., digital fraud attempts have risen 109% in the first four months of 2021. 
 Furthermore, a recent study from Juniper Research stated that businesses in eCommerce, airline ticketing, money transfer, and banking services would have an expected loss over $200 billion between 2020 and 2024.
 In addition, Juniper Research found that digital money transfer fraud is growing, especially in emerging markets. Due to advances in technology, fraudsters have increased their avenues of attempting fraud as well as increased sophistication in their attempts. 
+
+
 As the financial services industry continues to find new ways to interact with consumers, fraud analytics is an increasing area of importance.
 Our study is designed to explore transaction fraud in the context of banking services by promoting a statistical model that can make binary decisions on whether transactions are fraudulent based on key characteristics. 
 
